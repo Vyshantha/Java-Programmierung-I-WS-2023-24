@@ -13,12 +13,12 @@
 
 ## Übung 1 : Sitzung 2 am 19.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgaben
-1. Schreib eine Programm wo zwei Zahlen werden addiert
-2. Zeig wie die obenstehenden Programm kann auf eine Method laufen lassen
-3. Schreib eine Programm wo zwei Zahlen werden multipliziert, dividiert und substrahieren
-4. Schreib eine Programm wo zwei Zahlen werden gleich als einander, großer als einander, kleiner als einander vergleichen
-5. Zeig paar Methoden bpsw `valueOf()` und `toUpperCase()` und wie die funktionieren soll
-6. Zeig wie obenstehenden Methoden könnten aus Haupt Datei/File auf eine neue Datei/File geschneidet und geschoben werden
+1. Schreib eine Programm wo zwei Zahlen werden `addieren`
+2. Zeig wie die oben stehenden Programm kann als einem `Method` laufen lassen
+3. Schreib eine Programm wo zwei Zahlen werden `multiplizieren`, `dividieren` und `substrahieren` in eigenen `Methoden`
+4. Schreib eine Programm wo zwei Zahlen werden `gleich als einander`, `großer als einander`, `kleiner als einander` vergleichen
+5. Zeig paar Methoden bpsw. `valueOf()` und `toUpperCase()` und wie die funktionieren soll
+6. Zeig wie oben stehenden Methoden können raus den Haupt Datei/File auf eine neue Datei/File geschneidet und geschoben werden
 
 
 ## Übung 2 : Sitzung 3 am 26.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
