@@ -30,3 +30,4 @@
 5. Wie kann man die Fehler/Warnung aufheben
 6. Verschieben Nutzung von Kommentaren
 7. Datentypen
+8. Zeig anderen Formen der `Default Package` wie könnte man das nutzen
