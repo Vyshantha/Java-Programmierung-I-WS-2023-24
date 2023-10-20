@@ -18,7 +18,7 @@
 3. Schreib eine Programm wo zwei Zahlen werden `multiplizieren`, `dividieren` und `substrahieren` in eigenen `Methoden`
 4. Schreib eine Programm wo zwei Zahlen werden `gleich als einander`, `großer als einander`, `kleiner als einander` vergleichen
 5. Zeig paar Methoden bpsw. `valueOf()` und `toUpperCase()` und wie die funktionieren soll
-6. Zeig wie oben stehenden Methoden (im 3. Aufgabe und 4. Aufgabe) können raus den Haupt Datei/File auf eine neue Datei/File geschneidet und geschoben werden
+6. Zeig wie oben stehenden `Methoden` (im `3. Aufgabe` und `4. Aufgabe`) können raus den Haupt Datei/File auf eine neue Datei/File geschneidet und geschoben werden
 
 
 ## Übung 2 : Sitzung 3 am 26.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
