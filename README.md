@@ -6,11 +6,11 @@
 1. Importieren dieses `git-repository` in eure Entwicklungsumgebung (Eclipse) und hier ist die Anleitung : [GitHub Projekte in Eclipse importieren](https://drive.google.com/file/d/1IpwHADmwViEGQ7Pf4BgybUYpz7WBoMe5/view)
 2. Exportieren das Projekt, damit es in einer anderen Entwicklungsumgebung (Eclipse) geöffnet werden kann
 3. Short-Cuts im Eclipse, wie die müssen verwendt werden
-4. Komplexe Ausdrücke für Zuweisungen
-5. Wie kann man die Fehler/Warnung aufheben
+4. Zeig Datentypen Beispiele und wie kann man die Fehler/Warnung aufheben während Nutzungen den komplexen Ausdrücken
+5. Methoden mit mehreren Argumente und mit Rückgabewert
 6. Verschieben Nutzung von Kommentaren
-7. Datentypen Beispiele
-8. Zeig anderen Formen der `Default Package` wie könnte man das nutzen
+7. Zeig anderen Formen der `Default Package` wie könnte man das nutzen
+8. Zeig vergleich zwischen Eclipse und Terminal/Command-line tool für Auführung der Java Programme 
 
 
 ## Übung 1 : Sitzung 2 am 19.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
