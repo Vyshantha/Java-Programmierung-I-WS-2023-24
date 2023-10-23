@@ -7,8 +7,8 @@
 2. `Exportieren` das Projekt, damit es in einer anderen Entwicklungsumgebung geöffnet werden kann
 3. `Short-Cuts` im `Eclipse`, wie die müssen verwendt werden
 4. Verschieben Nutzung von `Kommentaren`
-5. Zeig Datentypen Beispiele und wie kann man die `Fehler | Warnung` aufheben während Nutzungen den komplexen `Ausdrücken`
-6. `Methoden` mit mehreren `Argumente` und mit `Rückgabewert` üben
+5. `Methoden` mit mehreren `Argumente` und mit `Rückgabewert` üben
+6. Zeig Datentypen Beispiele und wie kann man die `Fehler | Warnung` aufheben während Nutzungen den komplexen `Ausdrücken`
 7. Zeig anderen Formen der `Default Package` wie könnte man das nutzen
 8. Zeig vergleich zwischen `Eclipse` und `Terminal | Command-line` tool für Auführung der Java Programme 
 
