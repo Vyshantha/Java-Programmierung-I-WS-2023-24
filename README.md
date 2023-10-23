@@ -3,7 +3,7 @@
 
 ## Übung 2 : Sitzung 3 am 26.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgaben
-1. `Importieren` dieses `git-repository` in eure Entwicklungsumgebung und die Anleitung : [GitHub Projekte in Eclipse importieren](https://drive.google.com/file/d/1IpwHADmwViEGQ7Pf4BgybUYpz7WBoMe5/view)
+1. `Importieren` dieses `git-repository` in eurer Entwicklungsumgebung - [GitHub Projekte in Eclipse importieren](https://drive.google.com/file/d/1IpwHADmwViEGQ7Pf4BgybUYpz7WBoMe5/view)
 2. `Exportieren` das Projekt, damit es in einer anderen Entwicklungsumgebung geöffnet werden kann
 3. `Short-Cuts` im `Eclipse`, wie die müssen verwendt werden
 4. Zeig Datentypen Beispiele und wie kann man die `Fehler | Warnung` aufheben während Nutzungen den komplexen `Ausdrücken`
