@@ -1,5 +1,5 @@
 # Java-Programmierung-I_WS_2023-24
-[Kurzgesagt über Java - einfach erklärt mit Video Beispeile](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
+[Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
 ## Übung 2 : Sitzung 3 am 26.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgaben
