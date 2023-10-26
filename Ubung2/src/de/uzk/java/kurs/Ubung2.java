@@ -111,12 +111,26 @@ public class Ubung2 {public static void main(String[] args) {
 	// System.out.println(false + true);
 	// System.out.println(false + 2);
 	
+	
 	// Was muss hier geändert werden damit 'wert' "true" ist?
 	// boolean wert = (22 % 6)/2 == 0;
 	// System.out.println(wert);
 	// String a = "1" + 5;
 	// int j = Integer.valueOf(a) + 5;
 	// System.out.println("j hat wert : " + j + ", a hat wert " + a);
+	
+	/*
+	  byte var1 = 12; 
+	  System.out.println(var1); 
+	  short var2 = 21;
+	  System.out.println(var2); 
+	  float var3 = 20.6; 
+	  System.out.println(var3); 
+	  double var4 = 20.6f; 
+	  System.out.println(var4); 
+	  long var5 = 20.6L;
+	  System.out.println(var5);
+	 */
 	 
 	/* οben stehenden Methoden mit Rückgabewert */
 	// int x = operationen.hochDrei(10) / operationen.dividieren(10, 2) + operationen.addieren(10, 2) - operationen.addieren(Integer.valueOf(h), 10);
