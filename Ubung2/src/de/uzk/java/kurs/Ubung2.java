@@ -59,14 +59,21 @@ public class Ubung2 {public static void main(String[] args) {
 	// Zeile Löschen : STRG + D | CMD + D
 	operationen.hochDrei(10);
 	
-
+	// Undo
+	// STRG + Z | CMD + Z
+	
+	// Redo
+	// STRG + SHIFT + Z | CMD + SHIFT + Z
+	
+	// Suche und Ersetzen
+	// STRG + F | CMD + F
+	
 	// komplette Datei Auto-formattieren
 	// STRG + SHIFT + F | CMD + SHIFT + F
 	
 	// Java Datei laufen lassen | Anwendung Auführung
 	// STRG + F11 | CMD + Fn + F11
 	
-
 	// Eine Block Kommentar
 	/*
 	 * Das ist ein Kommentar
