@@ -140,7 +140,9 @@ public class Ubung2 {public static void main(String[] args) {
 	 */
 	 
 	/* οben stehenden Methoden mit Rückgabewert */
-	// int x = operationen.hochDrei(10) / operationen.dividieren(10, 2) + operationen.addieren(10, 2) - operationen.addieren(Integer.valueOf(h), 10);
+	int x = operationen.hochDrei(10) / operationen.dividieren(10, 2) + operationen.addieren(10, 2) - operationen.substrahieren(Integer.valueOf(h), 10);
+
+	System.out.println("Komplexe Ausdrucke " + x);
 
 	/*
 	 * Code Laufen Method 1 : von Eclipse
