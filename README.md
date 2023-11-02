@@ -1,6 +1,13 @@
 # Java-Programmierung-I_WS_2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
+## Übung 3 : Sitzung 4 am 02.11.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
+### Aufgaben
+1. Wiederholung der paar wichtigen Themen
+2. Rückgabewert Übung
+3. Nummernserien Beispiele, die im Console Fenster gedruckt werden soll
+
+
 ## Übung 2 : Sitzung 3 am 26.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgaben
 1. `Importieren` dieses `git-repository` in eurer Entwicklungsumgebung - [GitHub Projekte in Eclipse importieren](https://drive.google.com/file/d/1IpwHADmwViEGQ7Pf4BgybUYpz7WBoMe5/view)
