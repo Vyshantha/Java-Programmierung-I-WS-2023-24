@@ -3,9 +3,9 @@
 
 ## Übung 3 : Sitzung 4 am 02.11.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgaben
-1. Wiederholung der paar wichtigen Themen
-2. Rückgabewert Übung
-3. Nummernserien Beispiele, die im Console Fenster gedruckt werden soll
+1. `Wiederholung` der paar wichtigen Themen
+2. `Rückgabewert` Übung
+3. `Nummernserien` Beispiele, die im Console Fenster gedruckt werden soll
 
 
 ## Übung 2 : Sitzung 3 am 26.10.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
