@@ -19,19 +19,45 @@ public class Ubung3 {
 		
 		MathUtil operationen = new MathUtil();
 		
-		operationen.addieren(10, 10);
-		operationen.addieren(10, 2);
-		operationen.substrahieren(1, 5);
-		operationen.dividieren(10, 2);
-		operationen.multiplizieren(10, 0);
-		operationen.hochZwei(10);
-		operationen.hochDrei(10);
+		// Beispiel 1 : 0 , 2 , 4 , 8 
+
+//		int anzahl1 = 0;
+//		drucker.drückenMitWunsch("Nummernserien " + anzahl1 + "");
+//		int anzahl2 = operationen.addieren(anzahl1, anzahl1+2);
+//		drucker.drückenMitWunsch("Nummernserien " + anzahl2 + "");
+//		anzahl2 = operationen.addieren(anzahl2, anzahl2);
+//		drucker.drückenMitWunsch("Nummernserien " + anzahl2 + "");
+//		anzahl2 = operationen.addieren(anzahl2, anzahl2);
+//		drucker.drückenMitWunsch("Nummernserien " + anzahl2 + "");
 		
+		// 0 , 2 , 4 , 6 , 8 , 10 , 12 , 14 , 16, 18
+		int x = 0; // 0
+		drucker.drückenMitWunsch("Nummernserien " + x + ""); // 0
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + ""); // x = 0 + 2 = 2
+		x = x + 2; // x = 4
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		
+		x = 1;
+		drucker.drückenMitWunsch("Nummernserien " + x + "");
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		x = x + 2;
+		drucker.drückenMitWunsch("Nummernserien " +operationen.addieren(x, 2) + "");
+		// 1, 1, 2, 3, 5, 8 , 13
 	}
 
 }
-
-//drucker.drücken("gut");
 
 //System.out.println("");
 //System.out.println("");
