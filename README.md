@@ -1,6 +1,11 @@
 # Java-Programmierung-I-WS-2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
+## Übung 4 : Sitzung 5 am 09.11.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
+1. Schrieb eine `Funktion` / `Method` die uns liefert ob ein Nummer oder Zeichnenketten Nummern ein ganz Zahl ist
+2. Schrieb eine `Funktion` / `Method` die uns liefert ein fließkommaZahl zwischen 0 und 1 für Eingabe
+3. `Anwendung` : Wenn man 2 Zeichnen Namens des Tages eingibt (z.B. Sonntag als So), dann liefert uns zurück was ich heute machen muss
+
 ## Übung 3 : Sitzung 4 am 02.11.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgaben
 1. `Wiederholung` der paar wichtigen Themen
