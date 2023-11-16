@@ -4,7 +4,7 @@
 ## Übung 5 : Sitzung 6 am 16.11.2023 (16:00 - 17:30) per Zoom
 ### Aufgabe
 1. Schrieb eine `Programme`, die alles `gerade` und `ungerade` Zahlen von 0 bis 99 (beide einschließlich) als Separat Serien drückt : `for` schleife
-2. Schrieb eine `Programme`, alles `ganz` Zahlen von -1 bis 50 drückt : `do-while` schleife
+2. Schrieb eine `Programme`, alles positiv `ganz` Zahlen von -1 bis 50 drückt : `do-while` schleife
 3. Beispiel von `Fibonacciserien` : wie drückt man diese Nummerserien 0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 : `while` schleife
 4. Beispiel von `Scanner` Methode für `Eingabe` des Benutzers
 
