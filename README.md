@@ -7,6 +7,7 @@
 2. Schrieb eine `Programme`, alles positiv `ganz` Zahlen von -1 bis 50 drückt : `do-while` schleife
 3. Beispiel von `Fibonacciserien` : wie drückt man diese Nummerserien 0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 : `while` schleife
 4. Beispiel von `Scanner` Methode für `Eingabe` des Benutzers
+5. Schrieb eine `Programme`, die uns die Multiplizieren tabelle für 5 im Konsole drückt
 
 ## Übung 4 : Sitzung 5 am 09.11.2023 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 1. Schrieb eine `Funktion` / `Method` die uns liefert ob ein Nummer oder Zeichnenketten Nummern ein ganz Zahl ist
