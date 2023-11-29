@@ -8,7 +8,7 @@
    Hinweis : 
    	`Math.random()` gibt einen zufälligen `double` Wert zurück
    	`Math.round()` kann einen `float` oder `double` runden gibt jedoch einen `long` zurück
-3. Erstell ein Methode, die eine Zeichenkette einnimmt und umgekehrter Reihe des Zeichenkette in der Konsole ausgibt.
+3. Erstell ein Methode, die eine Zeichenkette einnimmt und umgekehrter Reihe der Zeichenkette in der Konsole ausgibt.
 4. Schreib ein Programm, wo diese Konsole Output generiert wird :
   Hinweis : benutze mit 2 Schleifen 
 
