@@ -1,6 +1,17 @@
 # Java-Programmierung-I-WS-2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
+## Übung 6 : Sitzung 7 am 30.11.2023 (16:00 - 17:30) per Zoom
+### Aufgabe
+1. Erstell ein Integer array der größe 100 ist und fülle jeden Wert von 100 (Anfang) bis 1 (Ende) auf
+2. Erstell ein Integer array der größe 10 ist und fülle jeden Wert zufällig mit 0 und 1 auf
+   Hinweis : 
+   	`Math.random()` gibt einen zufälligen `double` Wert zurück
+   	`Math.round()` kann einen `float` oder `double` runden gibt jedoch einen `long` zurück
+3. Erstell ein Methode, die eine Zeichenkette einnimmt und umgekehrter Reihe des Zeichenkette in der Konsole ausgibt.
+4. Schreib ein Programm, wo diese Konsole Output generiert wird :
+  Hinweis : benutze mit 2 Schleifen 
+
 ## Übung 5 : Sitzung 6 am 16.11.2023 (16:00 - 17:30) per Zoom
 ### Aufgabe
 1. Schrieb eine `Programme`, die alles `gerade` und `ungerade` Zahlen von 0 bis 99 (beide einschließlich) als Separat Serien drückt : `for` schleife
