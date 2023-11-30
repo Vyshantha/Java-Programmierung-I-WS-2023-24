@@ -10,7 +10,8 @@
    	`Math.round()` kann einen `float` oder `double` runden gibt jedoch einen `long` zurück
 3. Erstell ein Methode, die eine Zeichenkette einnimmt und umgekehrter Reihe der Zeichenkette in der Konsole ausgibt.
 4. Schreib ein Programm, wo diese Konsole Output generiert wird :
-  Hinweis : benutze mit 2 Schleifen 
+  Hinweis : benutze mit 2 `Schleifen`
+5. Schreib ein Methode, wo alle Elemente in eine Integer Array wird `addiert` oder `multipliziert`
 
 ## Übung 5 : Sitzung 6 am 16.11.2023 (16:00 - 17:30) per Zoom
 ### Aufgabe
