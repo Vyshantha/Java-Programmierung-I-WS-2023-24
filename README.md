@@ -1,6 +1,21 @@
 # Java-Programmierung-I-WS-2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
+## Übung Dez5 : am 05.12.2023 (10:00 - 11:30) per Zoom
+### Aufgabe
+1. Erstell ein Integer array der größe 100 ist und fülle jeden Wert von 100 (Anfang) bis 1 (Ende) auf
+2. Schreib Programme, die der `Multiplizieren Tabelle` für 5 mit 3 Schleifen-formen anzeigt
+3. Schreib ein Methode, wo alle Elemente in eine Integer Array wird addiert oder multipliziert abhängig von die Eingabe   
+
+   Hinweis : wenn ihr mit `Switch-Case` möglichkeiten versucht 
+		`Name_der_Methode (Integer_Array , "String");`
+
+   Hinweis : wenn ihr mit `If-Else` möglichekeiten versucht
+		`Name_der_Methode (Integer_Array , 'Char');`
+
+4. Schreib ein Programm, wo diese Konsole Output generiert wird :
+   Hinweis : benutze mit 2 `Schleifen`
+
 ## Übung 6 : Sitzung 7 am 30.11.2023 (16:00 - 17:30) per Zoom
 ### Aufgabe
 1. Erstell ein Integer array der größe 100 ist und fülle jeden Wert von 100 (Anfang) bis 1 (Ende) auf
