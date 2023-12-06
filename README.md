@@ -6,13 +6,11 @@
 1. Erstell ein Integer array der größe 100 ist und fülle jeden Wert von 100 (Anfang) bis 1 (Ende) auf
 2. Schreib Programme, die der `Multiplizieren Tabelle` für 5 mit 3 Schleifen-formen anzeigt
 3. Schreib ein Methode, wo alle Elemente in eine Integer Array wird addiert oder multipliziert abhängig von die Eingabe   
+> Hinweis : wenn ihr mit `Switch-Case` möglichkeiten versucht 
+>	`Name_der_Methode (Integer_Array , "String");`
 
-   Hinweis : wenn ihr mit `Switch-Case` möglichkeiten versucht 
-		`Name_der_Methode (Integer_Array , "String");`
-
-   Hinweis : wenn ihr mit `If-Else` möglichekeiten versucht
-		`Name_der_Methode (Integer_Array , 'Char');`
-
+> Hinweis : wenn ihr mit `If-Else` möglichekeiten versucht
+>	`Name_der_Methode (Integer_Array , 'Char');`
 4. Schreib ein Programm, wo diese Konsole Output generiert wird :
    Hinweis : benutze mit 2 `Schleifen`
 
