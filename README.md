@@ -6,7 +6,7 @@
 1. Finde die Charakter am Position 10 , 20 , 30 , 40 , 50, 60, 70, 80, 90 innerhalb das `längste` deutsche Wort ohne Absturz der Programm
 2. Erstell die Methode `static int search(char[] array, String toFind)`, die uns die erste Position der `toFind` Zeichenkette zurück gibt
 3. Javadoc Möglichkeiten für `java.lang.String` Zeigen - `charAt` , `compareTo`, `indexOf`, `startsWith`, `endsWith` , `substring`
-4. Erstell eine Klasse `Stadt`, wo der Name der Stadt mit `this` referenz benutzt wird. Dazu erstellen die Methode `wieHeisstDerStadt()` (Ausgibt Name der Stadt im Konsole) und `wieGrossIstDerStadt(int einwohner)` (Ausgibt abhängig von Anzahl der Bevölkerung ob die Stadt klein, mittlegroß, groß, sehr-groß ist)
+4. Erstell eine Klasse `Stadt`, wo der Name der Stadt mit `this` referenz benutzt wird. Dazu erstellen die Methode `wieHeisstDieStadt()` (Ausgibt Name der Stadt im Konsole) und `wieGrossIstDieStadt(int einwohner)` (Ausgibt abhängig von Anzahl der Bevölkerung ob die Stadt klein, mittlegroß, groß, sehr-groß ist)
 
 ## Übung Dez5 : am 05.12.2023 (10:00 - 11:30) per Zoom
 ### Aufgabe
