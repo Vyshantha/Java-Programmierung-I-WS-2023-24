@@ -8,6 +8,7 @@
 3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statisch mit die erbte Klasse verbinden sind.
 4. Schreib eine Method `foundMate(Human h1, Human h2)`, wo die sie sich paaren und eine Method `havingBaby(Human h1, Human h2)` wo die paarchen eine Kind bekommen.
 5. Was müssen im Code geändert werden, damit diese Zuweisung `Human h = new Human()` verhindert wird.
+6. Wie kann man eine `findJob(Human h)` Method in erbte Klasse deklarieren.
 
 ## Übung 8 : Sitzung 9 am 14.12.2023 (16:00 - 17:30) per Zoom
 ## Aufgabe
