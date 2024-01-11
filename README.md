@@ -3,7 +3,7 @@
 
 ## Übung 10 : Sitzung 11 am 11.01.2024 (16:00 - 17:30) per Zoom
 ## Aufgabe
-1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary` im eine Person Klasse, die eine `de.uzk.java.kurs.Human` Klasse vererben. Die `de.uzk.java.kurs.Human` Klasse hat 3 Eigenschaften - **_age_**, **_name_**, **_gender_** und auf die vererbte Klasse es gibt **_inUnionOrAPair_**, **_numberOfChildren_** Eigenschaften. Notizen die nötige Eigenschaften müssen initialisiert werden.
+1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary` im eine Person Package, die eine `de.uzk.java.kurs.Human` Klasse vererbt. Die `de.uzk.java.kurs.Human` Klasse hat 3 Eigenschaften - **_age_**, **_name_**, **_gender_** und auf die vererbte Klasse es gibt **_inUnionOrAPair_**, **_numberOfChildren_** Eigenschaften. Notizen die nötige Eigenschaften müssen initialisiert werden.
 2. Schreib auf die vererbte Klassen die Methode - `inAUnionOrAPair(boolean setAsPair)`, `beingParent()`, `boolean isParent()` geeignet für die obenstehende Eigenschaften.
 3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statisch mit die erbte Klasse verbinden sind.
 4. Schreib eine Method `foundMate(Human h1, Human h2)`, wo die sie sich paaren und eine Method `havingBaby(Human h1, Human h2)` wo die paarchen eine Kind bekommen.
