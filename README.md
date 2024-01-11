@@ -5,7 +5,7 @@
 ## Aufgabe
 1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary` im eine Person Package, die eine `de.uzk.java.kurs.Human` Klasse vererbt. Die `de.uzk.java.kurs.Human` Klasse hat 3 Eigenschaften - **_age_**, **_name_**, **_gender_** und auf die vererbte Klasse es gibt **_inUnionOrAPair_**, **_numberOfChildren_** Eigenschaften. Notizen die nötige Eigenschaften müssen initialisiert werden.
 2. Schreib auf die erbte Klassen die Methode - `inAUnionOrAPair(boolean setAsPair)`, `beingParent()`, `boolean isParent()` geeignet für die obenstehende Eigenschaften.
-3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statisch mit die erbte Klasse verbinden sind.
+3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statische Instanz mit die erbte Klasse verbinden wäre.
 4. Schreib eine Method `foundMate(Human h1, Human h2)`, wo die sie sich paaren und eine Method `havingBaby(Human h1, Human h2)` wo die paarchen eine Kind bekommen.
 5. Was müssen im Code geändert werden, damit diese Zuweisung `Human h = new Human()` verhindert wird.
 6. Wie kann man eine `findJob(Human h)` Method in erbte Klasse deklarieren.
