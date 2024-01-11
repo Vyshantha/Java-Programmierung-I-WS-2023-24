@@ -1,6 +1,13 @@
 # Java-Programmierung-I-WS-2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
+## Übung 10 : Sitzung 11 am 11.01.2024 (16:00 - 17:30) per Zoom
+## Aufgabe
+1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary`, die eine `Human` Klasse vererben. Die Human Klasse hat 3 Eigenschaften - **age**, **name**, **gender** und auf die vererbte Klasse es gibt **inUnionOrAPair**, **numberOfChildren** Eigenschaften.
+2. Schreib auf die vererbte Klassen die Methode - `inAUnionOrAPair(boolean setAsPair)`, `beingParent()`, `boolean isParent()` geeignet für die obenstehende Eigenschaften.
+3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statisch mit die erbte Klasse verbinden sind.
+4. Schreib eine Method `foundMate(Human h1, Human h2)`, wo die sie sich paaren und eine Method `havingBaby(Human h1, Human h2)` wo die paarchen eine Kind bekommen.
+
 ## Übung 8 : Sitzung 9 am 14.12.2023 (16:00 - 17:30) per Zoom
 ## Aufgabe
 1. Finde die Charakter am Position 10, 20, 30, 40, 50, 60, 70, 80, 90 innerhalb das `längste` deutsche Wort ohne Absturz der Programm
