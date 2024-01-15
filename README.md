@@ -1,7 +1,7 @@
 # Java-Programmierung-I-WS-2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
-## Übung Jan16 : am 16.01.2024 (16:00 - 17:30) per Zoom
+## Übung Jan16 : am 16.01.2024 (10:00 - 11:30) per Zoom
 ## Aufgabe
 1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary` im eine Person Package, die eine `de.uzk.java.kurs.Human` Klasse vererbt. Die `de.uzk.java.kurs.Human` Klasse hat 3 Eigenschaften - **_age_**, **_name_**, **_gender_** und auf die vererbte Klasse es gibt **_inUnionOrAPair_**, **_numberOfChildren_** Eigenschaften. Notizen die nötige Eigenschaften müssen initialisiert werden.
 2. Schreib auf die erbte Klassen die Methode - `inAUnionOrAPair(boolean setAsPair)`, `beingParent()`, `boolean isParent()` geeignet für die obenstehende Eigenschaften.
