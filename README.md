@@ -1,8 +1,14 @@
 # Java-Programmierung-I-WS-2023-24
 [Kurzgesagt über Java - einfach erklärt mit Video Beispielen](https://studyflix.de/informatik/einfuhrung-in-die-java-grundlagen-213)
 
+## Übung 11 : Sitzung 12 am 18.01.2024 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
+### Aufgabe
+1. Erstell die Klassen `Circle` und `Square` mit eigene Konstruktor und die entsprechende Methoden `void setSize(double radius)`, `public void getArea()`, `public double[] getSides()` und `public double getSize()` umgesetzt.
+2. Umbau die existierende Klassen, damit die beiden Klassen `Circle` und `Square` denen `Interface` bzw. `Line` und `Polygon` umsetzen werden.
+3. Erstell die Methoden, wo die Ausnahme handeln möglichkeiten z.B. `try-catch` und `throws` werden umgesetzt. Nimm die Beispiel öffne eine Datei.
+
 ## Übung Jan16 : am 16.01.2024 (10:00 - 11:30) per Zoom
-## Aufgabe
+### Aufgabe
 1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary` im eine Person Package, die eine `de.uzk.java.kurs.Human` Klasse vererbt. Die `de.uzk.java.kurs.Human` Klasse hat 3 Eigenschaften - **_age_**, **_name_**, **_gender_** und auf die vererbte Klasse es gibt **_inUnionOrAPair_**, **_numberOfChildren_** Eigenschaften. Notizen die nötige Eigenschaften müssen initialisiert werden.
 2. Schreib auf die erbte Klassen die Methode - `inAUnionOrAPair(boolean setAsPair)`, `beingParent()`, `boolean isParent()` geeignet für die obenstehende Eigenschaften.
 3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statische Instanz mit die erbte Klasse verbinden wäre.
@@ -12,7 +18,7 @@
 7. Zeig eine `interface` Beispiel mit eine neue `Person` Klasse
 
 ## Übung 10 : Sitzung 11 am 11.01.2024 (16:00 - 17:30) per Zoom
-## Aufgabe
+### Aufgabe
 1. Erstell 3 `Klasse` nämliche `Mann`, `Frau`, `NonBinary` im eine Person Package, die eine `de.uzk.java.kurs.Human` Klasse vererbt. Die `de.uzk.java.kurs.Human` Klasse hat 3 Eigenschaften - **_age_**, **_name_**, **_gender_** und auf die vererbte Klasse es gibt **_inUnionOrAPair_**, **_numberOfChildren_** Eigenschaften. Notizen die nötige Eigenschaften müssen initialisiert werden.
 2. Schreib auf die erbte Klassen die Methode - `inAUnionOrAPair(boolean setAsPair)`, `beingParent()`, `boolean isParent()` geeignet für die obenstehende Eigenschaften.
 3. Erstell die `setFrau(Human h)`, `setMann(Human h)`, `setNonBinary(Human h)` Methode, die statische Instanz mit die erbte Klasse verbinden wäre.
@@ -22,7 +28,7 @@
 7. Zeig eine `interface` Beispiel mit eine neue `Person` Klasse
 
 ## Übung 8 : Sitzung 9 am 14.12.2023 (16:00 - 17:30) per Zoom
-## Aufgabe
+### Aufgabe
 1. Finde die Charakter am Position 10, 20, 30, 40, 50, 60, 70, 80, 90 innerhalb das `längste` deutsche Wort ohne Absturz der Programm
 2. Erstell die Methode `static int search(char[] array, String toFind)`, die uns die erste Position der `toFind` Zeichenkette zurück gibt
 3. Javadoc Möglichkeiten für `java.lang.String` Zeigen - `charAt` , `compareTo`, `indexOf`, `startsWith`, `endsWith` , `substring`
