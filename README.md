@@ -5,7 +5,7 @@
 ### Aufgabe
 1. Erstell die Klassen `Circle` und `Square` mit eigene Konstruktor und die entsprechende Methoden `void setSize(double radius)`, `public void getArea()`, `public double[] getSides()` und `public double getSize()` umgesetzt.
 2. Umbau die existierende Klassen, damit die beiden Klassen `Circle` und `Square` denen `Interface` bzw. `Line` und `Polygon` umsetzen werden.
-3. Erstell die Methoden, wo die Ausnahme handeln möglichkeiten z.B. `try-catch` und `throws` werden umgesetzt. Nimm die Beispiel öffne eine Datei.
+3. Erstell die Methoden, wo die Ausnahmebehandlung möglichkeiten z.B. `try-catch` und `throws` werden umgesetzt. Nimm die Beispiel öffne eine Datei.
 
 ## Übung Jan16 : am 16.01.2024 (10:00 - 11:30) per Zoom
 ### Aufgabe
