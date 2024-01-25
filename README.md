@@ -3,9 +3,9 @@
 
 ## Übung 12 : Sitzung 13 am 25.01.2024 (16:00 - 17:30) per Zoom
 ### Aufgabe
-1. Schreib ein Programm wo die Inhalt diese Datei (`Ich bin eine/r Programmier/in und üben wir heute zusammen`) wird als `ASCII` gelesen. Da muss das `try-catch` block  für Ausnahmebehandlung sein.
+1. Schreib ein Programm wo die Inhalt diese Datei (`Ich bin eine/r Programmier/in und üben wir heute zusammen`) wird als `ASCII` gelesen. Da muss das `try-catch` block  für Ausnahmebehandlung sein bsw. `FileNotFoundException` und `IOException`. Hinweis : nutzt diese `File`, `FileInputStream` und `InputStreamReader` das Code zu erzeugen.
 2. Wie kann die bestehende Programm ändern damit die Datei deutlich auf eure Rechner gelesebar sein wird.
-3. Schreib ein Programm wo die Zeichenkette (`Heute haben wir Java Programmierung zusammen geübt`) wird in eine Datei gespeichert.
+3. Schreib ein Programm wo die Zeichenkette (`Heute haben wir Java Programmierung zusammen geübt`) wird in eine Datei gespeichert. Da muss das `try-catch` block  für Ausnahmebehandlung sein bsw. `UnsupportedEncodingException` und `IOException`. Hinweis : nutzt diese `FileOutputStream` und `OutputStreamWriter` das Code zu erzeugen.
 
 ## Übung 11 : Sitzung 12 am 18.01.2024 (16:00 - 17:30) im 103 Seminarraum S83 (103/EG/0.220)
 ### Aufgabe
